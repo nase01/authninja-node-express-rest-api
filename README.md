@@ -1,4 +1,4 @@
-# authninja-api
+# authninja-node-express-rest-api
 
 This is a NodeJS + MongoDB JWT authentication and user management API designed to facilitate the initiation of projects by providing pre-built endpoints 
 so the developers can focus on more important thing right away.
