@@ -3,7 +3,7 @@
 This is a NodeJS + MongoDB JWT authentication and user management API designed to facilitate the initiation of projects by providing pre-built endpoints 
 so the developers can focus on more important thing right away.
 
-Main Url: https://authninja-api-82337689544f.herokuapp.com/
+Quick Test URL: https://authninja-api-82337689544f.herokuapp.com/
 
 API Docs: https://documenter.getpostman.com/view/4549736/2s9YeAAa8f
 
