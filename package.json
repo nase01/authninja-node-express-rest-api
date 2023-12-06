@@ -7,9 +7,9 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "start": "node app.js",
-    "dev": "pm2-dev app.js",
-    "dev:local": "NODE_ENV=development-local pm2-dev app.js",
+    "start": "node index.js",
+    "dev": "pm2-dev index.js",
+    "dev:local": "NODE_ENV=development-local pm2-dev index.js",
     "seed": "node seed.js"
   },
   "devDependencies": {
